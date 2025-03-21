@@ -13,7 +13,7 @@ This project explores the application of Reinforcement Learning to predict stude
 - [Technologies Used](#technologies-used)
 - [Algorithms](#algorithms)
 - [Dataset](#dataset)
-- [License](#license)
+- [Report](#report)
 
 ## Introduction
 
@@ -51,6 +51,13 @@ Predicting exam scores can be a valuable tool for students and educators. This p
 
     (using any dataset for better train)
 
-## License
+## Report
+**XGBoost**
+  
+![XGBoost](report/XGBoost_Exam_Predict.png)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**LightLBM**
+
+![LightLBM](report/LightLBM_Exam_Predict.png)
+
+**DQN** try your self
